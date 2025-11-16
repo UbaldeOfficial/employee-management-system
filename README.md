@@ -18,7 +18,16 @@ A PHP-based Employee Management System with CRUD functionality, authentication, 
 - Secure authentication and prevention of session fixation
 - Data validation and sanitization
 
-- <img width="986" height="848" alt="Screenshot 2025-11-16 232952" src="https://github.com/user-attachments/assets/a964616d-0005-42a1-9e8b-bc69fa0a678c" />
+-<img width="934" height="719" alt="Screenshot 2025-11-16 232844" src="https://github.com/user-attachments/assets/9c009f9c-205a-4dc6-9177-ce0e2083020c" />
+<img width="875" height="693" alt="Screenshot 2025-11-16 232819" src="https://github.com/user-attachments/assets/90d1605e-2875-4143-b27a-548205eb9141" />
+<img width="1600" height="830" alt="Screenshot 2025-11-16 232912" src="https://github.com/user-attachments/assets/0a01b390-e6ee-43d8-b69e-5813ffb1e26d" />
+<img width="986" height="848" alt="Screenshot 2025-11-16 232952" src="https://github.com/user-attachments/assets/8dd73d3d-cab5-47d5-9f45-8c63cd4d1344" />
+<img width="1914" height="953" alt="Screenshot 2025-11-16 233005" src="https://github.com/user-attachments/assets/b7c76120-d92c-477a-85f9-17c5823e2c5a" />
+<img width="1265" height="810" alt="Screenshot 2025-11-16 233018" src="https://github.com/user-attachments/assets/e4aecf72-8531-4933-812c-b4c44cdd5ce7" />
+
+
+
+
 
 
 ---
