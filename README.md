@@ -18,6 +18,9 @@ A PHP-based Employee Management System with CRUD functionality, authentication, 
 - Secure authentication and prevention of session fixation
 - Data validation and sanitization
 
+- <img width="986" height="848" alt="Screenshot 2025-11-16 232952" src="https://github.com/user-attachments/assets/a964616d-0005-42a1-9e8b-bc69fa0a678c" />
+
+
 ---
 
 ## Files Included
